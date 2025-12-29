@@ -1,0 +1,2 @@
+Today is my first git class
+i am writing some content.
